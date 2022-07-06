@@ -1,1 +1,1 @@
-testando arquivo modificado para conflito
+frase no arquivo a.txt branch outraBranch
